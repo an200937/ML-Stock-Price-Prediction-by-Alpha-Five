@@ -54,10 +54,8 @@ Browser            → Renders charts with Plotly.js
 | Model              | Type         |
 |--------------------|--------------|
 | Linear Regression  | Linear       |
-| Ridge Regression   | Regularised  |
 | Decision Tree      | Tree-based   |
 | Random Forest      | Ensemble     |
-| Gradient Boosting  | Ensemble     |
 
 ---
 
