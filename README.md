@@ -1,6 +1,6 @@
 # 📈 Indian Stock Price Predictor
 
-A clean ML web app that predicts Indian stock prices using 5 machine learning models.
+A clean ML web app that predicts Indian stock prices using 3 machine learning models.
 Built with Flask + Plotly. One-click deploy to Vercel.
 
 ---
@@ -54,10 +54,9 @@ Browser            → Renders charts with Plotly.js
 | Model              | Type         |
 |--------------------|--------------|
 | Linear Regression  | Linear       |
-| Ridge Regression   | Regularised  |
 | Decision Tree      | Tree-based   |
 | Random Forest      | Ensemble     |
-| Gradient Boosting  | Ensemble     |
+
 
 ---
 
